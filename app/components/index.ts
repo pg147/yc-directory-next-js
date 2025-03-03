@@ -1,3 +1,4 @@
 import Navbar from "./Navbar";
+import Provider from "./Provider";
 
-export { Navbar };
+export { Provider, Navbar };
