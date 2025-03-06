@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { Work_Sans } from "next/font/google";
 import "./globals.css";
-import { Provider } from "./components";
+import Provider from "@/components/Provider";
 
 const workSans = Work_Sans({
   variable: "--font-work-sans",
